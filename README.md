@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 DCS-Net
+# DCS-Net
 
 <h3><span style="color:#4F46E5;">A Physical-aware Deep Network</span> for <span style="color:#059669;">Robust Modulation Classification</span> under <span style="color:#DC2626;">High-dynamic Doppler Scenarios</span></h3>
 
@@ -157,9 +157,3 @@ The repository includes the confusion matrix of **DCS-Net at 18 dB**:
 ## 📄 License
 
 This project is released under the terms of the license provided in the **LICENSE** file.
-
----
-
-## 🙏 Acknowledgments
-
-We thank the authors of the RadioML dataset and the open-source community for their valuable contributions.
